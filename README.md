@@ -16,7 +16,7 @@
 
     streamlit run Dashboard.py
 
-# RUN PROGRAM PRO 
+# RUN PROGRAM PRO * ( YAHOO FINANCE CONNECT ) 
 
     streamlit run DashPro.py
 
